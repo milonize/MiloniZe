@@ -5,8 +5,7 @@
 I am Milon as Web-developer to create your personal, business and  start-up website .I can add any web design components or functionality using my 4 year learning skill. Hope you are not disappointed ✨✨
 
 Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning node.js or laravel 
 - 👯 I’m looking to collaborate on JS Group 
 - 💬 Ask me about anything in php 
