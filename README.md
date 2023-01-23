@@ -42,8 +42,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40' align="center"></a> 
 <h1 align="center">Discover more about my background and qualifications</h1>
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
 
 <p align="center" data-aos="fade-up">
   <a href="https://github.com/anuraghazra/github-readme-stats">
