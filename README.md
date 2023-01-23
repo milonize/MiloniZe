@@ -3,7 +3,7 @@
   <img width="100%" height="100%" src="https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/326506859_534340015146121_2648246724347465039_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHhJUMFcgGE3UuHiBH_zm0J-Qy-8LlQHej5DL7wuVAd6LtRonDAAbPJx535Yw13sXCUGokUpJg_Qs9Ldj-PSWmj&_nc_ohc=TCItfijb--IAX-MjVLm&tn=2xryW3hxTvuTRPHv&_nc_ht=scontent.fdac80-1.fna&oh=00_AfBBYvkNTAxez583giclvRIiOX-gZtlNE9Kn_ZuqrrRocg&oe=63D39BC2">
 </p>
 <h1 align="center">Walcome To My Github</h1>
-<h2 align="center">Expertise in Pure PHP Development✨✔</h2>
+<h2 align="center">Specializing in Customized Solutions with Pure PHP Development✨✔</h2>
 
 "As a full-time or part-time web developer, I specialize in utilizing pure PHP to create efficient and effective websites. With 3-4 years of experience, I have a proven track record of delivering high-quality projects on time and on budget.
 
