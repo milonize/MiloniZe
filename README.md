@@ -42,28 +42,58 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40' align="center"></a> 
 <h1 align="center">Discover more about my background and qualifications</h1>
-<p align="center">
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<p align="center" data-aos="fade-up">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240" alt="Top Langs" style="text-align: center;">
   </a>
 </p>
-
-
-<p align="center">
+<p align="center" data-aos="fade-up">
   <a href="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true">
     <img  src="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true" alt="GitHub Stats">
   </a>
 </p>
-<p align="center">
+<p align="center" data-aos="fade-up">
   <a href="https://metrics.lecoq.io/codinghouse240">
     <img  src="https://metrics.lecoq.io/codinghouse240" alt="GitHub Metrics">
   </a>
 </p>
-<p align="center">
+<p align="center" data-aos="fade-up">
   <a href="https://streak-stats.demolab.com/?user=codinghouse240">
-    <img  src="https://streak-stats.demolab.com/?user=codinghouse240" alt="GitHub Streak Stats">
-  </a>
+<img  src="https://streak-stats.demolab.com/?user=codinghouse240" alt="GitHub Streak Stats">
+</a>
+
 </p>
+<script>
+  AOS.init();
+</script>
+Copy code
+
+You can also use CSS animations to achieve this effect by adding animation classes and properties to the images. Here is an example of how you can use CSS animations:
+<style>
+.image-animation {
+  animation: fade-up 1s;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+<p align="center" class="image-animation">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240
+
+
+
 
 
 
