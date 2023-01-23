@@ -5,7 +5,13 @@
 <h1 align="center">Walcome To My Github</h1>
 <h2 align="center">As a Full-time or Part-time developer on in your project.✨✔</h2>
 
-I am Milon as Web-developer to create your personal, business and  start-up website .I can add any web design components or functionality using my 4 year learning skill. Hope you are not disappointed ✨✨
+"As a full-time or part-time web developer, I specialize in utilizing pure PHP to create efficient and effective websites. With 3-4 years of experience, I have a proven track record of delivering high-quality projects on time and on budget.
+
+One of my key strengths is my ability to work with raw PHP, without relying on any libraries or frameworks. This allows me to have full control over the code and create customized solutions that meet the specific needs of my clients.
+
+In addition to my technical skills, I am also a team player who is able to collaborate with designers, project managers and other developers to deliver projects. My dedication to my work is reflected in the satisfied clients I have worked with in the past.
+
+If you're looking for a web developer who can deliver top-notch results using pure PHP, look no further. You can view my portfolio on GitHub to see some of my past projects and contact me to discuss your next project."✨✨
 
 Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
