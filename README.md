@@ -65,9 +65,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 </a>
 
 </p>
-<script>
-  AOS.init();
-</script>
+
 
 
 
