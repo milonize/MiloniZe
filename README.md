@@ -21,7 +21,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 - 💬 Ask me about anything in php 
 - 📫 How to reach me: Twitter: @coding_house240 
 
-<div style="text-align: center;">
+<div style="text-align: center; width="100%" height="100%"">
   <a href='https://github.com/codinghouse240'>
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="margin: 0 auto;">
   </a>
