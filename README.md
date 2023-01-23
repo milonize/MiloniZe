@@ -35,7 +35,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40' align="center"></a> 
+
 <br><h1 align="center">Discover more <br> About my background and qualifications</h1>
 
 
