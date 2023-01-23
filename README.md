@@ -49,11 +49,21 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 </p>
 
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true">
+    <img  src="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true" alt="GitHub Stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://metrics.lecoq.io/codinghouse240">
+    <img  src="https://metrics.lecoq.io/codinghouse240" alt="GitHub Metrics">
+  </a>
+</p>
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=codinghouse240">
+    <img  src="https://streak-stats.demolab.com/?user=codinghouse240" alt="GitHub Streak Stats">
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/codinghouse240)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=codinghouse240)  
 
 
