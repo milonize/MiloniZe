@@ -40,7 +40,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 </div>
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='100%' height='100%'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240)](https://github.com/anuraghazra/github-readme-stats)
 
