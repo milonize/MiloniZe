@@ -69,30 +69,6 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 <script>
   AOS.init();
 </script>
-Copy code
-
-You can also use CSS animations to achieve this effect by adding animation classes and properties to the images. Here is an example of how you can use CSS animations:
-<style>
-.image-animation {
-  animation: fade-up 1s;
-}
-
-@keyframes fade-up {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
-<p align="center" class="image-animation">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240
-
-
 
 
 
