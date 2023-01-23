@@ -21,8 +21,24 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 - 💬 Ask me about anything in php 
 - 📫 How to reach me: Twitter: @coding_house240 
 
+<div style="text-align: center;">
+  <a href='https://github.com/codinghouse240'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="margin: 0 auto;">
+  </a>
+  <a href='https://www.facebook.com/profile.php?id=100075078482156'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style="margin: 0 auto;">
+  </a>
+  <a href='https://www.instagram.com/codinghouse240/'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin: 0 auto;">
+  </a>
+  <a href='https://twitter.com/@coding_house240'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin: 0 auto;">
+  </a>
+  <a href='https://www.youtube.com/channel/@codinghouse240'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' style="margin: 0 auto;">
+  </a>
+</div>
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codinghouse240)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100075078482156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/codinghouse240/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@coding_house240)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@codinghouse240)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
