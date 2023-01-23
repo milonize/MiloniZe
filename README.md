@@ -21,9 +21,6 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 - 💬 Ask me about anything in php 
 - 📫 How to reach me: Twitter: @coding_house240 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/coding_house240" target="blank"><img src="https://img.shields.io/twitter/follow/coding_house240?logo=twitter&style=for-the-badge" alt="coding_house240" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
