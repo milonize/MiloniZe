@@ -37,7 +37,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 <br><h1 align="center">Discover more <br> About my background and qualifications</h1>
 
-
+<p align="center">PHP Project all are private</p>
 <p align="center" data-aos="fade-up">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240" alt="Top Langs" style="text-align: center;">
