@@ -43,6 +43,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240" alt="Top Langs" style="text-align: center;">
   </a>
 </p>
+#####all php project are private that's why php skilbar not slowing for PHP
 <p align="center" data-aos="fade-up">
   <a href="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true">
     <img  src="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true" alt="GitHub Stats">
