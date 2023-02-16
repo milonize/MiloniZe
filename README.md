@@ -15,7 +15,7 @@ If you're looking for a web developer who can deliver top-notch results using pu
 
 Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
-- 🌱 I’m currently learning node.js or laravel 
+- 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on JS Group 
 - 💬 Ask me about anything in php 
 - 📫 Twitter: @coding_house240 
