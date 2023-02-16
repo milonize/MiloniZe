@@ -18,7 +18,7 @@ Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 - 🌱 I’m currently learning node.js or laravel 
 - 👯 I’m looking to collaborate on JS Group 
 - 💬 Ask me about anything in php 
-- 📫 How to reach me: Twitter: @coding_house240 
+- 📫 Twitter: @coding_house240 
 
 
 <h3 align="left">Connect with me:</h3>
