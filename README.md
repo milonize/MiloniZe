@@ -11,7 +11,7 @@ In addition to my technical skills, I am also a team player who is able to colla
 
 If you're looking for a web developer who can deliver top-notch results using pure PHP, look no further. You can view my portfolio on GitHub to see some of my past projects and contact me to discuss your next project."✨✨
 
-Skills: PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
+Skills: Laravel-10/ PHP / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on JS Group 
