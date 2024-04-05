@@ -21,9 +21,9 @@ Skills:  PHP / Laravel-10 / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/coding_house240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coding_house240" height="30" width="40" /></a>
+<a href="https://twitter.com/twit_milonize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coding_house240" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100075078482156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100075078482156" height="30" width="40" /></a>
-<a href="https://instagram.com/codinghouse240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinghouse240/" height="30" width="40" /></a>
+<a href="https://instagram.com/inst_milonize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinghouse240/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/@codinghouse240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinghouse240" height="30" width="40" /></a>
 </p>
 
