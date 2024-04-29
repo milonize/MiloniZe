@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Walcome To My Github</h1>
-<h2 align="center">Specializing in Customized Solutions with Pure PHP Development✨✔</h2>
+<h2 align="center">Specializing in Customized Solutions with Pure Development✨✔</h2>
 
-As a full-time or part-time web developer, I specialize in utilizing pure PHP to create efficient and effective websites. With 3-4 years of experience, I have a proven track record of delivering high-quality projects on time and on budget.
+As a full-time or part-time web developer, I specialize in utilizing pure PHP or Node.js to create efficient and effective websites. With 3-4 years of experience, I have a proven track record of delivering high-quality projects on time and on budget.
 
 One of my key strengths is my ability to work with raw PHP, without relying on any libraries or frameworks. This allows me to have full control over the code and create customized solutions that meet the specific needs of my clients.
 
