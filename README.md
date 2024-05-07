@@ -27,31 +27,3 @@ Skills:  PHP / Laravel-10 / MYSQL / AJAX / JEQUERY / JS / BOOTSTRAP / HTML / CSS
 <a href="https://www.youtube.com/channel/@codinghouse240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codinghouse240" height="30" width="40" /></a>
 </p>
 
-
-
-<br><h1 align="center">Discover more <br> About my background and qualifications</h1>
-
-<p align="center">3 Running PHP Project all are private</p>
-<p align="center" data-aos="fade-up">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghouse240" alt="Top Langs" style="text-align: center;">
-  </a>
-</p>
-
-<p align="center" data-aos="fade-up">
-  <a href="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true">
-    <img  src="https://github-readme-stats.vercel.app/api?username=codinghouse240&show_icons=true&count_private=true" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center" data-aos="fade-up">
-  <a href="https://streak-stats.demolab.com/?user=codinghouse240">
-<img  src="https://streak-stats.demolab.com/?user=codinghouse240" alt="GitHub Streak Stats">
-</a>
-
-</p>
-
-
-
-
-
